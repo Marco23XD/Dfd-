@@ -1,0 +1,33 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+59
+'señor usuario digite las 4 edades para hacer su promedio '
+5
+1
+11
+e1,e2,e3,e4
+6
+2
+4
+suma
+11
+e1+e2+e3+e4
+4
+prom
+6
+suma/4
+4
+1
+18
+'su resultado fue'
+4
+1
+4
+prom
+1

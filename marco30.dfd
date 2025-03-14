@@ -1,0 +1,41 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+37
+'digite los valores de sus productos'
+5
+1
+5
+v1,v2
+6
+3
+4
+suma
+11
+v1-(v1*0.1)
+5
+suma2
+11
+v2-(v2*0.2)
+5
+total
+10
+suma+suma2
+4
+1
+4
+suma
+4
+1
+5
+suma2
+4
+1
+32
+'este es su total', ' - ', total
+1
