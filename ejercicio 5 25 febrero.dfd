@@ -1,0 +1,29 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+5
+1
+11
+nombre,Vc,D
+4
+1
+6
+nombre
+6
+2
+2
+Vd
+4
+Vc*D
+2
+Td
+5
+Vc-Vd
+4
+1
+42
+' Hola Sr', Nombre, 'usted debe pagar', Td
+1
